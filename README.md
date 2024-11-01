@@ -1,6 +1,5 @@
 ## Hi there 👋
-welcome to the *nothing* repository, uhhh yes that name on it
-to be in ## WIP
+welcome to the *nothing* repository :)
 <!--
 **x-esq/x-esq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
